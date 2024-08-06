@@ -1,6 +1,6 @@
 # Git_Course
 learn and apply
 
-# Project Notes
+## Project Notes
 ### note 1
 ### note 2
